@@ -21,6 +21,7 @@ Committee Roles
 
 President(s)/Co-chairs - Rahul, Diederik
 Secretary/SMO - Zandro
+People that do the work - Adam, Andrei, Denisa
 
 
 Notes
