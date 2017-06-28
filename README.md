@@ -4,7 +4,9 @@ ARMIS (ARM Intern Society) is a society that breeds a friendly and fun environme
 MEETING LOG
 ----------------------------------------
 
-        27/06/2017
+
+27/06/2017
+     
 ----
 Attendees:
   - Rahul
